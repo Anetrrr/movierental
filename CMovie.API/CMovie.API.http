@@ -1,0 +1,6 @@
+@CMovie.API_HostAddress = http://localhost:5289
+
+GET {{CMovie.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
